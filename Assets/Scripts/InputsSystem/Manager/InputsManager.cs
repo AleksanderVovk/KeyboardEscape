@@ -1,0 +1,118 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using YG;
+
+public class InputsManager : MonoBehaviour
+{
+    public Vector2 inputDirection;
+
+    public bool thisRealPlayer;
+
+    public bool run;
+    public bool jump;
+
+    public bool screenClamped; // Ёкран зажат
+
+    [SerializeField] private GameObject _desktopController;
+    [SerializeField] private GameObject _mobileController;
+
+    [SerializeField] private GameObject[] _desktopObjectActive;
+    [SerializeField] private GameObject[] _mobileObjectActive;
+
+    private void Start()
+    {
+        if (!thisRealPlayer)
+            return;
+
+        if (YG2.envir.isDesktop)
+            SelectType(true);
+        else
+            SelectType(false);
+
+        for (int i = 0; i < _desktopObjectActive.Length; i++)
+        {
+            _desktopObjectActive[i].SetActive(YG2.envir.isDesktop);
+        }
+
+        for (int j = 0; j < _mobileObjectActive.Length; j++)
+        {
+            _mobileObjectActive[j].SetActive(!YG2.envir.isDesktop);
+        }
+    }
+
+    private void Update()
+    {
+        InputDirectionHandler();
+        JumpHandler();
+        RunHandler();
+
+        if (YG2.envir.isDesktop)
+        {
+            if (Input.GetMouseButtonDown(1))
+            {
+                ScreenClamped(true);
+            }
+            if (Input.GetMouseButtonUp(1))
+            {
+                ScreenClamped(false);
+            }
+        }
+    }
+
+    public void SelectType(bool isDesktop)
+    {
+        _desktopController.SetActive(isDesktop);
+        _mobileController.SetActive(!isDesktop);
+    }
+
+    private void InputDirectionHandler()
+    {
+        if (YG2.envir.isDesktop)
+            inputDirection = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        else
+            inputDirection = new Vector3(SimpleInput.GetAxis("Horizontal"), SimpleInput.GetAxis("Vertical"));
+    }
+
+    private void JumpHandler()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Jump(true);
+        }
+    }
+
+    public void Jump(bool value)
+    {
+        jump = true;
+    }
+
+    private void RunHandler()
+    {
+        Run(Input.GetKey(KeyCode.LeftShift));
+    }
+
+    public void Run(bool value)
+    {
+        run = value;
+    }
+
+    public void ScreenClamped(bool value)
+    {
+        screenClamped = value;
+
+        if (YG2.envir.isDesktop)
+        {
+            if (screenClamped)
+            {
+                Cursor.visible = false;
+                Cursor.lockState = CursorLockMode.Locked;
+            }
+            else
+            {
+                Cursor.visible = true;
+                Cursor.lockState = CursorLockMode.Confined;
+            }
+        }
+    }
+}

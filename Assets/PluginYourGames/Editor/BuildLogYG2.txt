@@ -1,0 +1,3 @@
+Build path: C:/Users/Михаил/Desktop/Develop/Github/Unity3d/TsunamiEscape/TestingBuild2
+Build number: 65
+PluginYG version: 2.003

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a66e596cc64c1947b19c28d544f83a1, type: 3}
+  m_Name: 3Medium
+  m_EditorClassIdentifier: 
+  waveId: Medium
+  waveName:
+    ru: "\u0421\u0420\u0415\u0414\u041D\u042F\u042F"
+    en: MEDIUM
+    tr: ORTA
+  waveIcon: {fileID: 21300000, guid: 258d317d0b1588d478dd0bc95fc9dcad, type: 3}
+  wavePrefab: {fileID: 693919896929164803, guid: d20f5f9dd4bac6543aff3227eea1fb43, type: 3}
+  moveSpeed: 40
+  weight: 2
+  extraCooldown: 0
+  spawnNormally: 1

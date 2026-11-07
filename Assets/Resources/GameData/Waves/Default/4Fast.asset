@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a66e596cc64c1947b19c28d544f83a1, type: 3}
+  m_Name: 4Fast
+  m_EditorClassIdentifier: 
+  waveId: Fast
+  waveName:
+    ru: "\u0411\u042B\u0421\u0422\u0420\u0410\u042F"
+    en: FAST
+    tr: HIZLI
+  waveIcon: {fileID: 21300000, guid: 81108cf51a2dc344dbbe188b78937e76, type: 3}
+  wavePrefab: {fileID: 434917324824468796, guid: ee5d2e97bb6fcae44b4308f74b326742, type: 3}
+  moveSpeed: 60
+  weight: 1
+  extraCooldown: 0
+  spawnNormally: 1

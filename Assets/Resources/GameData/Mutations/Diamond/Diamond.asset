@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9db9acf58df9fcd449022f5f376223a6, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  id: Diamond
+  mutationName:
+    ru: "\u0410\u043B\u043C\u0430\u0437\u043D\u044B\u0439"
+    en: Diamond
+    tr: Elmas
+  mutationDescription:
+    ru: 
+    en: 
+    tr: 
+  multiplier: 1.4
+  chance: 0.2
+  isEvent: 0
+  overrideMaterial: {fileID: 2100000, guid: f66db6c19410591488566f908492e159, type: 2}
+  centerEffectPrefab: {fileID: 8997093707510189796, guid: 74fecfda2db53c142a113351d7f6ed16, type: 3}
+  useGradient: 1
+  gradientPreset: {fileID: 11400000, guid: b8d2715b74e76364ebc0023cc680d7c5, type: 2}
+  color: {r: 0, g: 0.666101, b: 1, a: 1}

@@ -1,0 +1,412 @@
+ShadowBlade
+Берендей
+MoonlightSeraph
+WolfSpirit
+НочнаяТень
+SteelGuardian
+ВетерСмерти
+SilentWhisper
+CrimsonReaper
+Златогрив
+IroncladHeart
+ThunderClaw
+Сумрак
+IceVein
+Мирослав
+SolarFlare
+Былина
+EmeraldDream
+Драконоборец
+PhantomStrider
+Воевода
+DarkRider
+Ярослав
+SilverPhoenix
+ХранительЛеса
+ShadowWalker
+Север
+WindWhisper
+Снеговей
+VenomFang
+Ратибор
+StarDust
+Громобой
+Nightfall
+Агрессор
+AzureSky
+Витязь
+BlazingSoul
+Хмурый
+ArcticFury
+Соловей
+BlackNova
+Илья
+MuadDib
+Забияка
+VoidStrider
+Гроза
+StellarKnight
+Поток
+Lightbringer
+Светлана
+VoidRaven
+Угрюмый
+FrostByte
+Заря
+CrimsonViper
+Молния
+EmberGlow
+Ворон
+IronWill
+Святогор
+SerpentEye
+Велес
+LunarGuard
+Русич
+SilentStrike
+Смерч
+ShadowWeaver
+Зареслав
+MysticVoyager
+Храбрый
+NightHunter
+БелыйВолк
+StormBringer
+Любомир
+DarkEnigma
+Силач
+VoidWalker
+Пересвет
+GhostReaper
+Тихон
+SteelFury
+Кудесник
+SilverSpecter
+Роман
+PhoenixTear
+Ярополк
+DuskWhisper
+Мирон
+ShadowDancer
+Добрыня
+LunarEclipse
+Радомир
+VoidKnight
+Всеволод
+AbyssalHunter
+Богдан
+ShadowMage
+Влад
+CosmicWanderer
+Георгий
+EternalFlame
+Демид
+VoidSeeker
+Елисей
+NightshadeBlade
+Ждан
+FrozenSoul
+Игнат
+BlazingComet
+Клим
+ShadowStalker
+Лаврентий
+VoidGuardian
+Макар
+AstralVoyager
+Никита
+Бустер Кот
+Лего Титан
+Гига Шрек
+Чипсо Трон
+Лютый Краб
+Бамбук Мен
+Рофло Геймер
+Броне Лось
+Вжух Маг
+Крипто Пёс
+Зумер Ниндзя
+Дед Интернетов
+Шрек Мобиль
+Кибер Волк
+Банан Огрызок
+Флекс Машина
+Хакер Пельмень
+Хрустик Про
+Жмых Рейсер
+Огурец Панковый
+Турбо Федя
+Бесшумный Ванёк
+Вайб Мастер
+Гроза Гетто
+Капибара Папич
+Мемный Самурай
+Лунный Вжух
+Гучи Гопник
+Дошик Техник
+Арбуз Фантом
+Скейт Пельмень
+Дед Роблоксер
+Радужный Нуб
+Гроза Флекса
+Лол Завод
+Кот Лаваш
+Фриз Бургер
+Электро Гусь
+Гига Фермер
+Сквид Флекс
+Робот Джамп
+Кекс Тачка
+Флеш Лось
+Гусь Батя
+Злобный Бублик
+Врум Колесо
+Бро Банан
+Ультра Валёк
+Чёткий Скейтер
+Краб Мастер
+Кибер Пельмень
+Турбо Медведь
+Легендарный Енот
+Феникс Про
+Хайп Бабка
+Разъярённый Дельфин
+Эпик Крот
+Мемный Ворон
+Арбузный Самурай
+Пузырьковый Гусь
+Читер Жора
+Вайб Дедушка
+Гроза Района
+Великий Вжух
+Лютый Арбуз
+Гений Сайбер
+Электро Кролик
+Лютый Огурец
+Неоновый Дед
+Робо Кот
+Чипс Охотник
+Лютый Лев
+Квасный Гений
+Вирусный Кабан
+Пельмень Легенда
+Торнадо Бублик
+Грозный Орк
+Лунный Механик
+Магнитный Грифон
+Виртуальный Пацан
+Фейк Монстр
+Грозовой Пельмень
+Крипто Лось
+Гига Бульдог
+Дигитал Феникс
+Атомный Самурай
+Эпик Кабан
+Дикий Жираф
+Легенда Мандарин
+Аномальный Бобр
+Стелс Волк
+Радужный Кабан
+Кибер Осьминог
+Хромо Лис
+Бешеный Картофель
+Эпик Моллюск
+Ядерный Ёж
+Виртуальный Дракон
+Лазерный Медведь
+Turbo Shark
+Pixel Boom
+Shadow Toaster
+Speedy Duck
+Neon Wizard
+Cringe Master
+Ghost Noodle
+Robo Penguin
+Epic Taco
+Glitch Fury
+Meme Titan
+Pixel Ninja
+Skater Bot
+Quantum Dog
+Giga Cactus
+Thunder Snail
+Laser Pancake
+Toxic Goose
+Hype Llama
+Jumpy Pizza
+Frosty Waffle
+Cyber Punk Cat
+Drippy Wizard
+Slime Blaster
+Rubber Banana
+Vortex Frog
+Ghostly Burrito
+Cosmic Muffin
+Ice Cream Ninja
+Shadow Cabbage
+Lofi Raccoon
+Doodle Sphinx
+Funky Chicken
+Hyper Cube Boy
+Toxic Waffle
+Rainbow Nugget
+Goofy Lettuce
+Lava Burger
+Midnight Koala
+Sugar Shark
+Boomerang Duck
+Robo Salmon
+Infinity Troll
+Blazing Hamster
+Wacky Pickle
+Bongo Buster
+Space Tuna
+Quantum Corgi
+Crispy Golem
+Galaxy Onion
+Thunder Wolf
+Neon Panther
+Speedy Cobra
+Cyber Fox
+Phantom Dragon
+Ultra Panda
+Glitch Tiger
+Frosty Lynx
+Shadow Dolphin
+Epic Falcon
+Turbo Raven
+Mystic Owl
+Lofi Panda
+Astral Raptor
+Ghost Phantom
+Pixel Panther
+Ice Titan
+Hype Phoenix
+Robo Turtle
+Shadow Lynx
+Fire Gecko
+Turbo Leopard
+Mystic Raccoon
+Cosmic Cobra
+Laser Owl
+Cyber Shark
+Galactic Falcon
+Infinity Puma
+Storm Panther
+Speedy Griffin
+Pixel Viper
+Phantom Wolf
+Quantum Falcon
+Thunder Serpent
+Electric Falcon
+Lofi Griffin
+Plasma Raptor
+Mystic Jaguar
+Turbo Falcon
+Hyper Serpent
+Neon Falcon
+Cyber Griffin
+Astral Jackal
+Supernova Sloth
+Biohazard Otter
+Ultra Ferret
+Quantum Kangaroo
+Glowing Hyena
+Frosted Shark
+Vortex Lizard
+Сын Маминой Подруги
+Брат Друга
+Батя в Строю
+Внук Пельменя
+Дед на Флексе
+Мамкин Инвестор
+Отец Гиперпанка
+Двоечник 80 Лвл
+Турбо Жмых
+Гроза Одноклассников
+Баба Яга в Отпуске
+Школьный Экзорцист
+Батя на Раскатке
+Сосед Снизу
+Крипто Батя
+Гуру Мемологии
+Громкий Кефир
+Дед Без Лицензии
+Вайбовый Внук
+Пельмень
+Лютый Чебурек
+Кот в Долгах
+Турбо Тёща
+Лысый Неопасный
+Сын Тракториста
+Бро без Интернета
+Флексующий Кабан
+Клоун на Минималках
+Багнутый Дед
+Царь Чебупелей
+Холодный Борщ
+Легенда Бассейна
+Бубенец Судьбы
+Всадник Апокалипсиса на Самокате
+Проклятый Лаваш
+Гига Дядя
+Пацан на Максималках
+Двоюродный Босс
+Тренер по Пельменям
+Президент Шаурмы
+Лунный Водитель
+Бывший Чебурек
+Властелин Дворов
+Батя в Танке
+Нуб
+Уличный Баклажан
+Son of Mom’s Friend
+Budget Batman
+Grandpa on Boost
+Lost Cousin
+Gamer from 90s
+Dad Without License
+Crypto Uncle
+Broke Millionaire
+Future Billionaire
+Mr. No WiFi
+Pancake Samurai
+Keyboard Warrior
+Bacon Overlord
+Nerf This Grandpa
+The Real Noodle
+Cursed Donut
+Turbo Grandpa
+Professional Sleeper
+Speedrun Life
+Low Budget Hero
+Coffee Addict King
+Half-Life NPC
+Uncle in Trouble
+The Sauce Master
+Flat Earth Believer
+Wifi Stealer
+iPhone 6 Gang
+Broken Controller
+NPC with Feelings
+Deep Fried Meme
+8-Bit Villain
+Clown Without Makeup
+Lord of Memes
+CEO of Nothing
+Meme Consultant
+Microwave Expert
+Noob with Experience
+Brother of Somebody
+Wrong Turn Samurai
+Disaster Generator
+Tax Evasion Pro
+Refund Warrior
+Living Glitch
+AI Without Updates
+Lost in Tutorial
+Offline NPC
+Donut Destroyer
+Overpowered Rat
+Discount John Wick
+Spicy Banana

@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3570138731674340013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6139338017445607461}
+  m_Layer: 0
+  m_Name: '#Gifts'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6139338017445607461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3570138731674340013}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4802635152802713368}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6480742972116780436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4802635152802713368}
+  - component: {fileID: 360075760216917521}
+  - component: {fileID: 8267292791011501949}
+  m_Layer: 0
+  m_Name: '@Playtime'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4802635152802713368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6480742972116780436}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6139338017445607461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &360075760216917521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6480742972116780436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc1d9c87e1d88744eb9f6586af2c9739, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gifts:
+  - id: 0
+    specialId: 
+    rewardType: 3
+    amount: 60
+    icon: {fileID: 21300000, guid: fb579b008e5066445aad4edc71c90ee4, type: 3}
+    title:
+      ru: "X2 \u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C (60 \u0441\u0435\u043A)"
+      en: X2 Speed (60 sec)
+      tr: X2 Hiz (60 saniye)
+    requiredSeconds: 60
+    isExtraGift: 0
+    gradientColor1: {r: 0, g: 0.6829066, b: 1, a: 1}
+    gradientColor2: {r: 0, g: 0.49324083, b: 1, a: 1}
+  - id: 1
+    specialId: 
+    rewardType: 5
+    amount: 10
+    icon: {fileID: 21300000, guid: 779d1d81af1883d4da493b90c8ffe4d4, type: 3}
+    title:
+      ru: "\u041F\u043E\u0431\u0435\u0434\u044B (10)"
+      en: Wins (10)
+      tr: Galibiyet (10)
+    requiredSeconds: 300
+    isExtraGift: 0
+    gradientColor1: {r: 1, g: 0.99607843, b: 0, a: 1}
+    gradientColor2: {r: 1, g: 0.77952456, b: 0, a: 1}
+  - id: 2
+    specialId: 
+    rewardType: 4
+    amount: 500
+    icon: {fileID: 21300000, guid: 24c7ba31d5348354d85b25fe1930d258, type: 3}
+    title:
+      ru: "\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C (500)"
+      en: Speed (500)
+      tr: Hiz (500)
+    requiredSeconds: 600
+    isExtraGift: 0
+    gradientColor1: {r: 1, g: 1, b: 1, a: 1}
+    gradientColor2: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  - id: 3
+    specialId: 
+    rewardType: 3
+    amount: 180
+    icon: {fileID: 21300000, guid: fb579b008e5066445aad4edc71c90ee4, type: 3}
+    title:
+      ru: "X2 \u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C (3 \u043C\u0438\u043D)"
+      en: X2 Speed (3 min)
+      tr: X2 Hiz (3 dakika)
+    requiredSeconds: 900
+    isExtraGift: 0
+    gradientColor1: {r: 0, g: 0.86242056, b: 1, a: 1}
+    gradientColor2: {r: 0, g: 0.69803923, b: 1, a: 1}
+  - id: 4
+    specialId: 
+    rewardType: 5
+    amount: 30
+    icon: {fileID: 21300000, guid: 779d1d81af1883d4da493b90c8ffe4d4, type: 3}
+    title:
+      ru: "\u041F\u043E\u0431\u0435\u0434\u044B (50)"
+      en: Wins (50)
+      tr: Galibiyet (50)
+    requiredSeconds: 1500
+    isExtraGift: 0
+    gradientColor1: {r: 1, g: 0.99607843, b: 0, a: 1}
+    gradientColor2: {r: 1, g: 0.78039217, b: 0, a: 1}
+  - id: 5
+    specialId: 
+    rewardType: 1
+    amount: 49
+    icon: {fileID: 21300000, guid: b772c9476337e364191442ddeb85f7b9, type: 3}
+    title:
+      ru: "\u0410\u043B\u043C\u0430\u0437\u044B (49)"
+      en: Diamonds (49)
+      tr: Elmaslar (49)
+    requiredSeconds: 1500
+    isExtraGift: 0
+    gradientColor1: {r: 1, g: 0, b: 0.8901961, a: 1}
+    gradientColor2: {r: 0.8666667, g: 0.02745098, b: 0.7764706, a: 1}
+  - id: 6
+    specialId: 
+    rewardType: 3
+    amount: 3600
+    icon: {fileID: 21300000, guid: aa33d98704bdc4f43864e89ea2ba69f4, type: 3}
+    title:
+      ru: "X2 \u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C (60 \u043C\u0438\u043D)"
+      en: X2 Speed (60 min)
+      tr: X2 Hiz (60 dakika)
+    requiredSeconds: 3000
+    isExtraGift: 1
+    gradientColor1: {r: 1, g: 0.22720139, b: 0.2117647, a: 1}
+    gradientColor2: {r: 1, g: 0, b: 0, a: 1}
+  contentRoot: {fileID: 0}
+  rootExtraGiftView: {fileID: 0}
+  giftViewPrefab: {fileID: 4372665235879101212, guid: f8b960f01ba65bc48b7da70be5b21a36, type: 3}
+  extraGiftViewPrefab: {fileID: 4338334361110941790, guid: dd557dca0f8565d4a87d881b205b1462, type: 3}
+  rewardReceiver: {fileID: 8267292791011501949}
+  nextRewardTimerText: {fileID: 0}
+--- !u!114 &8267292791011501949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6480742972116780436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 020ebdc9efa4a224d8c6ce3af396b731, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

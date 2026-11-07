@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9db9acf58df9fcd449022f5f376223a6, type: 3}
+  m_Name: Rainbow
+  m_EditorClassIdentifier: 
+  id: Rainbow
+  mutationName:
+    ru: "\u0420\u0430\u0434\u0443\u0436\u043D\u044B\u0439"
+    en: Rainbow
+    tr: Yanardoner
+  mutationDescription:
+    ru: 
+    en: 
+    tr: 
+  multiplier: 1.8
+  chance: 0.13
+  isEvent: 0
+  overrideMaterial: {fileID: 2100000, guid: e3e5fc95ec767ae4e86c8433312e7317, type: 2}
+  centerEffectPrefab: {fileID: 7839796060577860345, guid: 267e849505118ef469731f1ee13d8bb4, type: 3}
+  useGradient: 1
+  gradientPreset: {fileID: 11400000, guid: 8ecdb5c2882b51c4e8364caa860d4fd9, type: 2}
+  color: {r: 0.838233, g: 0, b: 1, a: 1}

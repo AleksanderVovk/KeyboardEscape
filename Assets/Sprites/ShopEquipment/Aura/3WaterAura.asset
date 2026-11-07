@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfbd6a1aa42cd1d43bec1748c214b578, type: 3}
+  m_Name: 3WaterAura
+  m_EditorClassIdentifier: 
+  itemId: water_aura
+  itemName:
+    ru: "\u0412\u043E\u0434\u044F\u043D\u0430\u044F \u0410\u0443\u0440\u0430"
+    en: Water Aura
+    tr: Su Aurasi
+  backgroundSprite: {fileID: 0}
+  backgroundColor: {r: 0.20392157, g: 0.654902, b: 1, a: 1}
+  itemType: 1
+  priceWins: 10000000
+  priceDiamonds: 199
+  speedMultiplier: 2
+  trailGradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: -1
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  objectPrefab: {fileID: 2426517555016208762, guid: 4c7c1dd21808a7142932a107cf379c0c, type: 3}
+  icon: {fileID: 21300000, guid: 66a64f788fde7504cab44a6b06fd3a91, type: 3}

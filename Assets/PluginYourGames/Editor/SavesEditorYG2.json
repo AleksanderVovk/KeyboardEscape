@@ -1,0 +1,395 @@
+{
+    "stringKeys": [],
+    "stringValues": [],
+    "floatKeys": [],
+    "floatValues": [],
+    "intKeys": [],
+    "intValues": [],
+    "idSave": 135,
+    "playerData": {
+        "gender": 0,
+        "speedLvl": 97,
+        "donateCount": 1,
+        "playTime": 0.0,
+        "bestTime": 0.0,
+        "wallet": {
+            "money": 0,
+            "diamonds": 0,
+            "spins": 0,
+            "wins": 12
+        },
+        "totalXp": 500000000,
+        "attributes": {
+            "speed": 9.699999809265137
+        },
+        "rebirthLevel": 0,
+        "rebirthMultiplier": 1.0,
+        "playerBase": {
+            "baseLevel": 0,
+            "brainrotPoints": [
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                },
+                {
+                    "brainrotData": {
+                        "id": "",
+                        "mutations": []
+                    },
+                    "balance": 0
+                }
+            ]
+        },
+        "shop": {
+            "items": [
+                {
+                    "id": 0,
+                    "level": 0,
+                    "nextPriceSoft": 50,
+                    "nextPriceHard": 0
+                },
+                {
+                    "id": 1,
+                    "level": 0,
+                    "nextPriceSoft": 250,
+                    "nextPriceHard": 0
+                },
+                {
+                    "id": 2,
+                    "level": 0,
+                    "nextPriceSoft": 2500,
+                    "nextPriceHard": 0
+                },
+                {
+                    "id": 2,
+                    "level": 0,
+                    "nextPriceSoft": 500000,
+                    "nextPriceHard": 0
+                }
+            ],
+            "speedBonus": 0,
+            "carrySlots": 0
+        },
+        "vipStatus": false,
+        "discoveredBrainrots": [],
+        "discoveredIndexEntries": [],
+        "boughtSkins": [
+            "Skin0"
+        ],
+        "equippedSkinId": "Skin0",
+        "purchasedTreadmills": [
+            "treadmill_default"
+        ],
+        "x2XpTimeRemaining": 0.0
+    },
+    "settings": {
+        "sensitivity": 400.0,
+        "volume": 1.0,
+        "musicVolume": 0.3499999940395355
+    },
+    "trainingData": {
+        "training_brainrot_pickup": false,
+        "training_brainrot_complete": false
+    },
+    "LastLoginTime": 1790267529,
+    "LastRewardClaimTime": 0,
+    "DaysUnlocked": 2,
+    "WasRewardCollectedOnSpecificDay": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "equipmentShop": {
+        "trailCategory": {
+            "items": [
+                {
+                    "itemId": "green_trail",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "blue_trail",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "purple_trail",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "red_trail",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "rainbow_trail",
+                    "purchased": false,
+                    "equipped": false
+                }
+            ]
+        },
+        "objectCategory": {
+            "items": [
+                {
+                    "itemId": "glow_aura",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "wind_aura",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "water_aura",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "fire_aura",
+                    "purchased": false,
+                    "equipped": false
+                },
+                {
+                    "itemId": "thunder_aura",
+                    "purchased": false,
+                    "equipped": false
+                }
+            ]
+        }
+    },
+    "inventory": {
+        "defaultItem": [],
+        "storage": [],
+        "equipped": []
+    },
+    "shop": {
+        "items": [
+            {
+                "itemId": "Butterfly",
+                "count": 3,
+                "purchased": false
+            },
+            {
+                "itemId": "IceCream",
+                "count": 2,
+                "purchased": false
+            },
+            {
+                "itemId": "Helmet",
+                "count": 1,
+                "purchased": false
+            },
+            {
+                "itemId": "Wings",
+                "count": 1,
+                "purchased": false
+            }
+        ],
+        "timeRemaining": 230.82736206054688
+    }
+}

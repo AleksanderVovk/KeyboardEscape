@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf3561673a389b428ce06afc9d15fd9, type: 3}
+  m_Name: Backpack
+  m_EditorClassIdentifier: 
+  itemId: Backpack
+  itemName:
+    ru: "\u0420\u044E\u043A\u0437\u0430\u043A"
+    en: Backpack
+    tr: "S\u0131rt cantasi"
+  icon: {fileID: 21300000, guid: baa58d288e34ce044829da777c81159a, type: 3}
+  rarity: 2
+  speedBonusPercent: 10
+  price:
+    amount: 250000
+    valueType: 3
+  priceDiamonds: 179
